@@ -1,6 +1,7 @@
 
 <p align="center"><img  src="./imagenes/logoNetflix.png" width="180">
-# <p align="center"> Ejercicio Layout de Netflix #
+
+# <p align="center"> Ejercicio Layout de Netflix
 
 ## Descripción
 
