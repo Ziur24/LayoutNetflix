@@ -5,7 +5,7 @@
 
 ## Descripción
 
-El objetivo de este ejercicio, es poner en práctica el posicionado de los diferentes objetos que componen la página intentando sea lo más pareceida posible a la original.
+El objetivo de este ejercicio, es poner en práctica el posicionado de los diferentes objetos que componen la página intentando sea lo más parecida posible a la original.
 
 Para alcanzar este cometido, se han utilizado diferentes propiedades existentes en CSS como son **"flex"** y **"grid**".
 
